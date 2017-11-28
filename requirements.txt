@@ -1,5 +1,4 @@
 numpy
 matplotlib
-databaseprofiles
 heat
 material_prop
