@@ -1,6 +1,6 @@
 numpy
 matplotlib
 example
-database_profiles
+databaseprofiles
 heat
 material_prop
